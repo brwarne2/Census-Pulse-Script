@@ -1,2 +1,3 @@
 # Census-Pulse-Script
 This script reads in 16 weeks of Household Pulse Census .csv files in order to glean insights into the dynamic shifts in the way the COVID-19 pandemic is affecting individuals and families based on their economic status, race/ethnicity, and other measures.
+The file is called Texas_COMPAVAIL_Asian because in this instance, the script is measuring the responses for a question dealing with computer availability (column name = COMPAVAIL) for the Asian population in Texas. One may edit the script to subset for different races/ethnicities, geographic areas (states or MSAs), and different questions, or columns. 
